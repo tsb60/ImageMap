@@ -1,0 +1,16 @@
+b{
+  background-color: white;
+}
+body{
+  background-attachment: fixed;
+  background-image: url('images/afro.jpg')
+  background-image: no-repeat;
+  background-size: 100 % 100 %;
+  text-align: center;
+}
+h1{
+  color: white;
+}
+p{
+  color: white;
+}
